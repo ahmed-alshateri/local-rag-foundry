@@ -38,13 +38,13 @@ def split_text(text, chunk_size=1000):
 
 
 client = OpenAI(
-    base_url="http://127.0.0.1:52111/v1",
+    base_url="http://127.0.0.1:62085/v1",
     api_key="foundry"
 )
 
 
 embedding_client = OpenAI(
-    base_url="http://127.0.0.1:52111/v1",
+    base_url="http://127.0.0.1:62085/v1",
     api_key="foundry"
 )
 
