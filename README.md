@@ -62,6 +62,9 @@ The user can upload a CV and ask:
 > What are my technical skills?
 
 The system retrieves the relevant information from the CV and generates an answer based on the document.
+### Application Screenshot
+
+![Local RAG Assistant](screenshot.png)
 
 ## Local AI Models
 
